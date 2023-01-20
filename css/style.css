@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Carter+One&family=Mukta:wght@400;600;700&family=Nunito+Sans:wght@700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    
+    font-family: 'Mukta', sans-serif;
+}
+header
+{
+    background: #000;
+     
+    color: white;
+}
+.con
+{
+    max-width:1200px;
+    margin:10px 70px;
+    padding-top: 5px;
+    
+    
+}
+.flex
+{
+    display: flex;
+}
+.jc
+{
+    justify-content: space-between;
+}
+.ai
+{
+    align-items: center;
+}
+ul
+{
+    list-style: none;
+}
+.g
+{
+    gap:20px;}
+   .tc
+   {
+    text-align: center;
+   }
+   

@@ -1,0 +1,6 @@
+@media(max-width:480px)
+
+{
+    .flex{flex-direction: column;}
+    .top2 .flex{ flex-direction: row !important;}
+}
